@@ -6,7 +6,7 @@ from nltk.tokenize import sent_tokenize
 
 nltk.download('punkt', quiet=True)
 
-DATA_ROOT = Path(r" Enter your raw data location ")
+DATA_ROOT = Path(r" Enter your data location ")
 CACHE_DIR = Path("cache_sents")
 CACHE_DIR.mkdir(exist_ok=True)
 
@@ -40,3 +40,4 @@ with open("parsed.json", "w", encoding="utf-8") as out:
     json.dump(parsed, out, ensure_ascii=False, indent=2)
 
 print(f"✅ Parsed {len(parsed)} files and saved to parsed.json")
+
