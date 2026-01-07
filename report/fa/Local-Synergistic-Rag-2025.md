@@ -18,11 +18,11 @@ header:
 
 ---
 <div style="display: flex; justify-content: start; align-items: center; gap: 10px;">
-    <img src="assets/patterneffort/synergistic-rag/media/logo1.png" width="169" height="217" alt="FUM-logo" style="object-fit: contain;">
+    <img src="assets/patterneffort/synergistic-rag/media/logo1.jpg" width="169" height="217" alt="FUM-logo" style="object-fit: contain;">
 </div>
 
 <div style="display: flex; justify-content: start; align-items: center; gap: 10px;">
-    <img src="assets/patterneffort/synergistic-rag/media/logo2.png" width="169" height="217" alt="FUM-logo" style="object-fit: contain;">
+    <img src="assets/patterneffort/synergistic-rag/media/logo2.jpg" width="169" height="217" alt="FUM-logo" style="object-fit: contain;">
 </div>
 
 **نویسنده**: دانیال آقاخانی زاده  – دانشجوی کارشناسی‌ارشد هوش مصنوعی
@@ -5818,4 +5818,5 @@ Enter your prompts here.
 [^63]: Prompt Engineering
 [^64]: عبارت پیشنهادی نویسنده
 [^65]: Sub-node
+
 [^66]: Fine-grained
