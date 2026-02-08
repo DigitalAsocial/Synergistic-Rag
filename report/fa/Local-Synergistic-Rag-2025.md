@@ -853,7 +853,7 @@ print(f"\n✅ Completed. {len(os.listdir(OUT_DIR))} TEI files created in {OUT_DI
 <br>
 
 
-![تصویر ۱۱ – نمونه ی ترمینال اجرای دستورات کد پیش‌پردازش](assets/patterneffort/synergistic-rag/media/fig11.jpg)
+![تصویر ۱۱ – نمونه ی ترمینال اجرای دستورات کد پیش‌پردازش](assets/patterneffort/synergistic-rag/media/fig11.JPG)
 <p style="text-align:center;">
   <sub>تصویر ۱۱ – نمونه ی ترمینال اجرای دستورات کد پیش‌پردازش</sub>
 </p>
@@ -5820,5 +5820,6 @@ Enter your prompts here.
 [^65]: Sub-node
 
 [^66]: Fine-grained
+
 
 
