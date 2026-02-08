@@ -845,7 +845,7 @@ print(f"\n✅ Completed. {len(os.listdir(OUT_DIR))} TEI files created in {OUT_DI
 در پایان نیز پیام اتمام پردازش به نمایش در می‌آید.
 
 
-![تصویر ۱۰ – نمونه ی دستور اجرای کانتینر GROBID](assets/patterneffort/synergistic-rag/media/fig10.jpg)
+![تصویر ۱۰ – نمونه ی دستور اجرای کانتینر GROBID](assets/patterneffort/synergistic-rag/media/fig10.JPG)
 
   <sub>تصویر ۱۰ – نمونه ی دستور اجرای کانتینر GROBID</sub>
 
@@ -5820,4 +5820,5 @@ Enter your prompts here.
 [^65]: Sub-node
 
 [^66]: Fine-grained
+
 
