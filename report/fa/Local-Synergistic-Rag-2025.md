@@ -846,9 +846,9 @@ print(f"\n✅ Completed. {len(os.listdir(OUT_DIR))} TEI files created in {OUT_DI
 
 
 ![تصویر ۱۰ – نمونه ی دستور اجرای کانتینر GROBID](assets/patterneffort/synergistic-rag/media/fig10.jpg)
-<p style="text-align:center;">
+
   <sub>تصویر ۱۰ – نمونه ی دستور اجرای کانتینر GROBID</sub>
-</p>
+
 
 <br>
 
@@ -5820,3 +5820,4 @@ Enter your prompts here.
 [^65]: Sub-node
 
 [^66]: Fine-grained
+
