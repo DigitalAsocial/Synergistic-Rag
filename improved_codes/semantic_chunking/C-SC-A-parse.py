@@ -21,4 +21,4 @@ for path in tqdm(txt_files, desc="Parsing TEI files"):
 with open("parsed.json", "w", encoding="utf-8") as f:
     json.dump(parsed_texts, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Parsed {len(parsed_texts)} valid TEI files and saved to .json")
+print(f"✅ Parsed {len(parsed_texts)} valid TEI files and saved to parsed.json")
