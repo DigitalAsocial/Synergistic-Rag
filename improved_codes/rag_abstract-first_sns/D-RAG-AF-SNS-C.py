@@ -8,7 +8,7 @@ import time
 INPUT_PATH = r" Enter your Query + Extracted Contexts .json location "
 OUTPUT_PATH = r" Enter your final Output .jsonl destination"
 
-LLM_MODEL_PATH = r" Enter your LLM model location "
+LLM_MODEL_PATH = r" Enter your LLM location "
 MAX_NEW = 300
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
