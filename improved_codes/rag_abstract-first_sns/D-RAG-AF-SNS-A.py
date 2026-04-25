@@ -7,8 +7,8 @@ from chromadb import PersistentClient
 QUERIES_FILE = r" Enter your queries.jsonl location "
 OUTPUT_PATH = r" Choose your Output.json destination "
 
-CHROMA_ABS_PATH = r"D:/learning/synergisticrag/databases/all-mpnet/TB17-g-AF-SNS-abstracts"
-EMBED_MODEL_PATH = r"D:/learning/synergisticrag/models/embeddings/TB17-sns/all-mpnet-base-v2-finetuned"
+CHROMA_ABS_PATH = r" Enter your abstracts-chromadb database location "
+EMBED_MODEL_PATH = r" Enter your embedding model location "
 TOP_A = 100
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
