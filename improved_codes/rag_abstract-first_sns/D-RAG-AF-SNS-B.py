@@ -7,8 +7,8 @@ from tqdm import tqdm
 INPUT_PATH = r" Enter your extracted_abstracts .json location "
 OUTPUT_PATH = r" Enter your extracted sns chunks .json destination "
 
-CHROMA_SNS_PATH = r" Your ChromaDB database location "
-EMBED_MODEL_PATH = r" Your embedding model location "
+CHROMA_SNS_PATH = r" Enter your chromaDB body database location "
+EMBED_MODEL_PATH = r" Enter your embedding model location "
 TOP_C = 40
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
