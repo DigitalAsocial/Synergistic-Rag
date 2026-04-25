@@ -3,6 +3,13 @@ layout: persian
 classes: wide rtl-layout
 dir: rtl
 title: " معماری RAG هم‌افزایانه "
+permalink: /teaching/studenteffort/patterneffort/synergistic-rag
+author_profile: true
+header:
+  overlay_image: "/assets/images/background.jpg"
+  overlay_filter: 0.3
+  overlay_color: "#5e616c"
+  caption: "Photo credit: [Unsplash](https://unsplash.com)"
 ---
 
 
@@ -1956,11 +1963,9 @@ print(f"✅ Done: {len(txt_files)} TEI files processed, {total_chunks} semantic 
 
 <br>
 
-<div align="center">
 
 ![تصویر ۱۶ – مثال خروجی اجرای کد قطعه بندی معنایی برای پیکربندی 5 TB + G](/assets/patterneffort/synergistic-rag/media/fig16.JPG)
 
-</div>
 
 <p style="text-align:center;">
   <sub>تصویر ۱۶ – مثال خروجی اجرای کد قطعه بندی معنایی برای پیکربندی   5TB + G</sub>
@@ -2650,11 +2655,11 @@ print(f"✅ Done: processed {len(to_process)} articles, stored {total_chunks} ch
 در پایان، تعداد مقالات پردازش‌شده و تعداد کل قطعات معنایی ذخیره‌شده در پایگاه داده چاپ می‌شود:<br>
 
  
-<div align="center">
+
 
 ![تصویر  ۱۷ – مثال خروجی اجرای کد استخراج چکیده ها در رویکرد Abstract-First برای پیکربندی 17TB + G5](/assets/patterneffort/synergistic-rag/media/fig17.JPG)
 
-</div>
+
 
 <p style="text-align:center;">
   <sub>تصویر ۱۷ – مثال خروجی اجرای کد استخراج چکیده ها در رویکرد Abstract-First برای پیکربندی 17TB + G</sub>
@@ -2662,12 +2667,10 @@ print(f"✅ Done: processed {len(to_process)} articles, stored {total_chunks} ch
 
 <br>
 
-<div align="center">
 
 ![تصویر ۱۸ – مثال خروجی اجرای کد قطعه بندی معنایی رویکرد Abstract-First برای پیکربندی 17 TB + G
 ](/assets/patterneffort/synergistic-rag/media/fig18.JPG)
 
-</div>
 
 <p style="text-align:center;">
   <sub>تصویر ۱۸ – مثال خروجی اجرای کد قطعه بندی معنایی رویکرد Abstract-First برای پیکربندی 17TB + G
@@ -3142,12 +3145,10 @@ RAGAS با اتصال به یک API مدل زبانی خارجی مانند Open
 در این مقاله از سه معیار وفاداری به متن [^58]، ارتباط پاسخ [^59] و ارتباط زمینه [^60]  برای سنجش عملکرد معماری استفاده شده است. در ادامه، هر یک از این معیارها و نحوه پیاده‌سازی آن‌ها در چهارچوب RAGAS به‌صورت دقیق معرفی می‌شود.<br>
  
 
-<div align="center">
 
 ![تصویر ۱۹ – ارتباط سه معیار ارزیابی عملکرد در RAGAS و جنبه های مربوط به آنها.
 ](/assets/patterneffort/synergistic-rag/media/fig19.JPG)
 
-</div>
 
 <p style="text-align:center;">
   <sub>تصویر ۱۹ – ارتباط سه معیار ارزیابی عملکرد در RAGAS و جنبه های مربوط به آنها.
@@ -4316,12 +4317,10 @@ I will tip you 1000 dollars for a perfect response.
 
 <br>
 
-<div align="center">
 
 ![تصویر ۲۰ – برش هایی از دو پاسخ تولید شده توسط مدل Meta Llama 3.1 8B 
 ](/assets/patterneffort/synergistic-rag/media/fig20.jpg)
 
-</div>
 
 <p style="text-align:center;">
   <sub> تصویر ۲۰ – برش هایی از دو پاسخ تولید شده توسط مدل Meta Llama 3.1 8B </sub>
@@ -4340,12 +4339,10 @@ I will tip you 1000 dollars for a perfect response.
 
 <br>
 
-<div align="center">
 
 ![تصویر ۲۱ – برش هایی از سه پاسخ تولید شده توسط مدل Meta Llama 3.1 8B 
 ](/assets/patterneffort/synergistic-rag/media/fig21.jpg)
 
-</div>
 
 <p style="text-align:center;">
   <sub> تصویر ۲۱ – برش هایی از سه پاسخ تولید شده توسط مدل Meta Llama 3.1 8B </sub>
@@ -4363,12 +4360,10 @@ I will tip you 1000 dollars for a perfect response.
 
 <br>
 
-<div align="center">
 
 ![تصویر ۲۲ – برشی از پاسخ تولید شده توسط مدل Meta Llama 3.1 8B  
 ](/assets/patterneffort/synergistic-rag/media/fig22.jpg)
 
-</div>
 
 <p style="text-align:center;">
   <sub> تصویر ۲۲ – برشی از پاسخ تولید شده توسط مدل Meta Llama 3.1 8B </sub>
@@ -4388,12 +4383,10 @@ I will tip you 1000 dollars for a perfect response.
 
 <br>
 
-<div align="center">
 
 ![تصویر ۲۳ – برشی از پاسخ تولید شده توسط مدل Meta Llama 3.1 8B   
 ](/assets/patterneffort/synergistic-rag/media/fig23.jpg)
 
-</div>
 
 <p style="text-align:center;">
   <sub>تصویر ۲۳ – برشی از پاسخ تولید شده توسط مدل Meta Llama 3.1 8B </sub>
@@ -4411,12 +4404,11 @@ I will tip you 1000 dollars for a perfect response.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	answer: I don’t know. Question Answering with ChatGPT ### Question: ...
 
 
-<div align="center">
+
 
 ![تصویر ۲۴ – برشی از پاسخ تولید شده توسط مدل Meta Llama 3.1 8B    
 ](/assets/patterneffort/synergistic-rag/media/fig24.jpg)
 
-</div>
 
 <p style="text-align:center;">
   <sub>تصویر ۲۴ – برشی از پاسخ تولید شده توسط مدل Meta Llama 3.1 8B </sub>
@@ -4743,12 +4735,12 @@ print(df[["id", "faithfulness", "answer_relevancy", "context_relevancy"]])
 
 
 
-<div align="center">
+
 
 ![تصویر ۲۵ – محیط LM Studio – در حال اجرای RAGAS و ارزیابی نتایج آزمایشات گزارش 
 ](/assets/patterneffort/synergistic-rag/media/fig25.JPG)
 
-</div>
+
 
 <p style="text-align:center;">
   <sub>تصویر ۲۵ – محیط LM Studio – در حال اجرای RAGAS و ارزیابی نتایج آزمایشات گزارش</sub>
@@ -5019,12 +5011,12 @@ print("\n[DONE] SNS Completed Successfully!")
 
 &nbsp;&nbsp;&nbsp; ۵) پایان اجرای برنامه: پس از ذخیره‌سازی کامل زیرگره‌ها، پیام موفقیت‌آمیز بودن فرآیند نمایش داده می‌شود. <br>
  
-<div align="center">
+
 
 ![تصویر ۲۶ – مثال خروجی اجرای کد قطعه بندی SNS برای پیکربندی 17 TB + G 
 ](/assets/patterneffort/synergistic-rag/media/fig26.JPG)
 
-</div>
+
 
 <p style="text-align:center;">
   <sub>تصویر ۲۶ – مثال خروجی اجرای کد قطعه بندی SNS برای پیکربندی 17 TB + G </sub>
