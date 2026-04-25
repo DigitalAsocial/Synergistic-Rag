@@ -6,7 +6,7 @@ import re
 import time
 
 INPUT_PATH = r" Enter your Query + Extracted Contexts .json location "
-OUTPUT_PATH = r" Enter your final Output .jsonl d estination"
+OUTPUT_PATH = r" Enter your final Output .jsonl destination"
 
 LLM_MODEL_PATH = r" Enter your LLM model location "
 MAX_NEW = 300
