@@ -1,3 +1,6 @@
+# RAG output evaluation ,benchmark ,and comparison with RAGAS 0.1.1 using online APIs such as OpenAI, GapGPT, etc.
+# python evaluation_with_ragas-online.py --input RAG-output.jsonl --output RAG-evaluation.csv
+
 import argparse
 import json
 import time
