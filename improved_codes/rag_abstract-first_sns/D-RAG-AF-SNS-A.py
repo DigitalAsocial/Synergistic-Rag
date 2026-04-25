@@ -7,7 +7,7 @@ from chromadb import PersistentClient
 QUERIES_FILE = r" Enter your queries.jsonl location "
 OUTPUT_PATH = r" Choose your Output.json destination "
 
-CHROMA_ABS_PATH = r" Enter your abstracts-chromadb database location "
+CHROMA_ABS_PATH = r" Enter your chromadb abstracts database location "
 EMBED_MODEL_PATH = r" Enter your embedding model location "
 TOP_A = 100
 
