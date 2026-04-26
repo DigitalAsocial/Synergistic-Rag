@@ -7,7 +7,7 @@ A concise report evaluating a synergistic RAG architecture designed to improve c
 
 **واژگان کلیدی:** مدل‌های زبانی بزرگ، بازیابی اطلاعات، پیش‌پردازش، هم‌افزایی، همامتن.
 
-## Datasets
+## Created Datasets
 - [ds-tb-5-raw](https://huggingface.co/datasets/DigitalAsocial/ds-tb-5-raw)
 - [ds-tb-17-raw](https://huggingface.co/datasets/DigitalAsocial/ds-tb-17-raw)
 - [ds-tb-5-g](https://huggingface.co/datasets/DigitalAsocial/ds-tb-5-g)
@@ -16,7 +16,7 @@ A concise report evaluating a synergistic RAG architecture designed to improve c
 - [ds-tb-17-g-sns-aml](https://huggingface.co/datasets/DigitalAsocial/ds-tb-17-g-sns-aml/)
 - [ds-tb-17-g-sns-bge](https://huggingface.co/datasets/DigitalAsocial/ds-tb-17-g-sns-bge/)
 
-## Embedding Models 
+## Finetuned Embedding Models 
 - [all-MiniLM-L6-v2-ds-rag](https://huggingface.co/DigitalAsocial/all-MiniLM-L6-v2-ds-rag)
 - [all-mpnet-base-v2-ds-rag-5r](https://huggingface.co/DigitalAsocial/all-mpnet-base-v2-ds-rag-5r)
 - [all-mpnet-base-v2-ds-rag-17r](https://huggingface.co/DigitalAsocial/all-mpnet-base-v2-ds-rag-17r)
